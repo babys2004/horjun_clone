@@ -1,7 +1,7 @@
 export const mainInfo = {
   movie: [
     {
-      source: '/src/image/movie/Red_one_2024.jpg',
+      source: '/src/image/movie/Red_one_2024.webp',
       addDate: '3 дня назад',
       date: '2025',
       view: '43546',
@@ -12,7 +12,7 @@ export const mainInfo = {
       country: 'США',
     },
     {
-      source: '/src/image/movie/paranoya.jpg',
+      source: '/src/image/movie/paranoya.webp',
       addDate: '1 дня назад',
       date: '2024',
       view: '43766',
@@ -23,7 +23,7 @@ export const mainInfo = {
       country: 'Великобритание',
     },
     {
-      source: '/src/image/movie/Holop_paris.jpg',
+      source: '/src/image/movie/Holop_paris.webp',
       addDate: '9 дня назад',
       date: '2023',
       view: '9866',
@@ -34,7 +34,7 @@ export const mainInfo = {
       country: 'Россия',
     },
     {
-      source: '/src/image/movie/Ulybka_2.jpg',
+      source: '/src/image/movie/Ulybka_2.webp',
       addDate: '1 дня назад',
       date: '2020',
       view: '36546',
@@ -45,7 +45,7 @@ export const mainInfo = {
       country: 'США',
     },
     {
-      source: '/src/image/movie/igra_smerti.jpg',
+      source: '/src/image/movie/igra_smerti.webp',
       addDate: '3 дня назад',
       date: '2025',
       view: '2446',
@@ -56,7 +56,7 @@ export const mainInfo = {
       country: 'Южная Корея',
     },
     {
-      source: '/src/image/movie/legenda.jpg',
+      source: '/src/image/movie/legenda.webp',
       addDate: '7 дня назад',
       date: '2022',
       view: '754546',
@@ -67,7 +67,7 @@ export const mainInfo = {
       country: 'Китай',
     },
     {
-      source: '/src/image/movie/pingvin.jpg',
+      source: '/src/image/movie/pingvin.webp',
       addDate: '5 дня назад',
       date: '2025',
       view: '424',
@@ -78,7 +78,7 @@ export const mainInfo = {
       country: 'США',
     },
     {
-      source: '/src/image/movie/professional.jpg',
+      source: '/src/image/movie/professional.webp',
       addDate: '12 дня назад',
       date: '2024',
       view: '4346',
@@ -91,7 +91,7 @@ export const mainInfo = {
   ],
   cartoon: [
     {
-      source: '/src/image/cartoon/dikiy_robot.jpg',
+      source: '/src/image/cartoon/dikiy_robot.webp',
       date: '3 дня назад',
       view: '432546',
       name: 'Дикий робот (2024)',
@@ -100,7 +100,7 @@ export const mainInfo = {
       rating: 5,
     },
     {
-      source: '/src/image/cartoon/bikini_bottom.jpg',
+      source: '/src/image/cartoon/bikini_bottom.webp',
       date: '1 дня назад',
       view: '433766',
       name: 'Бикини-Боттом: Фильм Сэнди Чикс',
@@ -109,7 +109,7 @@ export const mainInfo = {
       rating: 3,
     },
     {
-      source: '/src/image/cartoon/gatkiy_4.jpg',
+      source: '/src/image/cartoon/gatkiy_4.webp',
       date: '9 дня назад',
       view: '239866',
       name: 'Гадкий я 4 (2024)',
@@ -118,7 +118,7 @@ export const mainInfo = {
       rating: 4,
     },
     {
-      source: '/src/image/cartoon/golovolomka_2.jpg',
+      source: '/src/image/cartoon/golovolomka_2.webp',
       date: '1 дня назад',
       view: '366546',
       name: 'Головоломка 2 (2024)',
@@ -127,7 +127,7 @@ export const mainInfo = {
       rating: 5,
     },
     {
-      source: '/src/image/cartoon/kak_prirycit_bizon.jpg',
+      source: '/src/image/cartoon/kak_prirycit_bizon.webp',
       date: '3 дня назад',
       view: '352446',
       name: 'Как приручить бизона (2024)',
@@ -136,7 +136,7 @@ export const mainInfo = {
       rating: 4,
     },
     {
-      source: '/src/image/cartoon/kung-fu_tiger.jpg',
+      source: '/src/image/cartoon/kung-fu_tiger.webp',
       date: '7 дня назад',
       view: '754546',
       name: ' Кунг-фу тигр (2022)',
@@ -145,7 +145,7 @@ export const mainInfo = {
       rating: 5,
     },
     {
-      source: '/src/image/cartoon/moana_2.jpg',
+      source: '/src/image/cartoon/moana_2.webp',
       date: '5 дня назад',
       view: '735424',
       name: 'Моана 2 (2024)',
@@ -154,7 +154,7 @@ export const mainInfo = {
       rating: 4,
     },
     {
-      source: '/src/image/cartoon/transformer_one.jpg',
+      source: '/src/image/cartoon/transformer_one.webp',
       date: '12 дня назад',
       view: '90 4346',
       name: 'Трансформеры: Начало (2024)',
@@ -165,49 +165,49 @@ export const mainInfo = {
   ],
   library: [
     {
-      source: '/src/image/library/yowsan_ysly_sahra.jpg',
+      source: '/src/image/library/yowsan_ysly_sahra.webp',
       date: '3 месяца назад',
       view: '1766',
       name: 'Yowşan Ysly Sähra',
     },
     {
-      source: '/src/image/library/duralga.jpg',
+      source: '/src/image/library/duralga.webp',
       date: '3 месяца назад',
       view: '915',
       name: 'Duralga',
     },
     {
-      source: '/src/image/library/kamilligin_yolunda.jpg',
+      source: '/src/image/library/kamilligin_yolunda.webp',
       date: '4 месяца назад',
       view: '1196',
       name: 'Kämilligiň ýolunda',
     },
     {
-      source: '/src/image/library/hummet_hassasy.jpg',
+      source: '/src/image/library/hummet_hassasy.webp',
       date: '4 месяца назад',
       view: '888',
       name: 'HÜMMET HASASY',
     },
     {
-      source: '/src/image/library/syrdas_gerek.jpg',
+      source: '/src/image/library/syrdas_gerek.webp',
       date: '9 месяцев назад',
       view: '3982',
       name: 'Syrdaş gerek',
     },
     {
-      source: '/src/image/library/medet_berewer.jpg',
+      source: '/src/image/library/medet_berewer.webp',
       date: '9 месяцев назад',
       view: '1576',
       name: 'Medet berewer',
     },
     {
-      source: '/src/image/library/kalbymyn_owazy.jpg',
+      source: '/src/image/library/kalbymyn_owazy.webp',
       date: '11 месяцев назад',
       view: '3392',
       name: 'Kalbymyň Owazy',
     },
     {
-      source: '/src/image/library/caga_eziz_edebi_ondanam_eziz.jpg',
+      source: '/src/image/library/caga_eziz_edebi_ondanam_eziz.webp',
       date: '1 год назад',
       view: '5843',
       name: 'Çaga eziz, edebi ondan hem eziz',
@@ -216,34 +216,34 @@ export const mainInfo = {
   music: [
     {
       name: 'Akmuhammet Hanow',
-      source: 'src/image/music/akmuhammet_hanow.jpg',
+      source: 'src/image/music/akmuhammet_hanow.webp',
     },
     {
       name: 'Azat Durdyýew',
-      source: 'src/image/music/azat_durdyyew.jpg ',
+      source: 'src/image/music/azat_durdyyew.webp ',
     },
     {
       name: 'Emirgen',
-      source: 'src/image/music/emirgen.jpg',
+      source: 'src/image/music/emirgen.webp',
     },
 
     {
       name: 'Mansur Şaripow',
-      source: 'src/image/music/mansur_saripow.jpg',
+      source: 'src/image/music/mansur_saripow.webp',
     },
     {
       name: 'Rosh Sazz',
-      source: 'src/image/music/rosh_sazz.jpg',
+      source: 'src/image/music/rosh_sazz.webp',
     },
     {
       name: 'Shahzod Gulmyradow',
-      source: 'src/image/music/shahzod_gulmyradow.jpg',
+      source: 'src/image/music/shahzod_gulmyradow.webp',
     },
   ],
   video: [
     {
       name: 'Rosh sazz Ft Hemra Yazgylyjow - Gerekdal',
-      source: 'src/image/videoclip/102036bOMCZ3lP5p.jpg',
+      source: 'src/image/videoclip/102036bOMCZ3lP5p.webp',
       date: '6 дней назад',
       view: '7310',
       time: '00:03:30',
@@ -252,7 +252,7 @@ export const mainInfo = {
     },
     {
       name: 'Amon music (Agajan Igdirow) - Bas gaza',
-      source: 'src/image/videoclip/102002gWqmTVfJEM.jpg',
+      source: 'src/image/videoclip/102002gWqmTVfJEM.webp',
       date: '3 недели назад',
       view: '10919',
       time: '00:02:15',
@@ -261,7 +261,7 @@ export const mainInfo = {
     },
     {
       name: 'Akmuhammet Hanow - Çeşmeler',
-      source: 'src/image/videoclip//101995ELu0IQ2LLb.jpg',
+      source: 'src/image/videoclip//101995ELu0IQ2LLb.webp',
       date: '3 недели назад',
       view: '11222',
       time: '00:02:05',
@@ -270,7 +270,7 @@ export const mainInfo = {
     },
     {
       name: 'Akmuhammet Hanow - Balam',
-      source: 'src/image/videoclip//101994bUD0aGG7rF.jpg',
+      source: 'src/image/videoclip//101994bUD0aGG7rF.webp',
       date: '3 недели назад',
       view: '5544',
       time: '00:03:15',
@@ -279,7 +279,7 @@ export const mainInfo = {
     },
     {
       name: 'Akmuhammet Hanow - Seretmez',
-      source: 'src/image/videoclip//101994bUD0aGG7rF.jpg',
+      source: 'src/image/videoclip//101994bUD0aGG7rF.webp',
       date: '3 недели назад',
       view: '3433',
       time: '00:02:45',
@@ -288,7 +288,7 @@ export const mainInfo = {
     },
     {
       name: 'Akmuhammet Hanow - Kakaň Gyzy',
-      source: 'src/image/videoclip//101992NB8VNg72pZ.jpg',
+      source: 'src/image/videoclip//101992NB8VNg72pZ.webp',
       date: '3 недели назад',
       view: '4957',
       time: '00:03:55',
@@ -297,7 +297,7 @@ export const mainInfo = {
     },
     {
       name: 'Akmuhammet Hanow - Dilber',
-      source: 'src/image/videoclip//101994bUD0aGG7rF.jpg',
+      source: 'src/image/videoclip//101994bUD0aGG7rF.webp',
       date: '3 недели назад',
       view: '2510',
       time: '00:02:55',
@@ -306,7 +306,7 @@ export const mainInfo = {
     },
     {
       name: 'Akmuhammet Hanow - Haraýym Döndi',
-      source: 'src/image/videoclip//101994bUD0aGG7rF.jpg',
+      source: 'src/image/videoclip//101994bUD0aGG7rF.webp',
       date: '3 недели назад',
       view: '2004',
       time: '00:03:45',
@@ -317,7 +317,7 @@ export const mainInfo = {
   comedy: [
     {
       name: 'Yagshy matrisa kinoda 😂',
-      source: 'src/image/videocomedy/100794LM61z26PCs.jpg',
+      source: 'src/image/videocomedy/100794LM61z26PCs.webp',
       date: '2 месяца назад',
       view: '125264',
       time: '00:12:15',
@@ -326,7 +326,7 @@ export const mainInfo = {
     },
     {
       name: 'Aýdaly Şatlyk Gurbannazarow bilen Merdan Annamuhammedow',
-      source: 'src/image/videocomedy/100794LM61z26PCs.jpg',
+      source: 'src/image/videocomedy/100794LM61z26PCs.webp',
       date: '7 месяцев назад',
       view: '112534',
       time: '00:30:15',
@@ -335,7 +335,7 @@ export const mainInfo = {
     },
     {
       name: 'Между двумя папоротниками - Тила Текила и Дженнифер Энистон',
-      source: 'src/image/videocomedy/100797W4Qig548iD.jpg',
+      source: 'src/image/videocomedy/100797W4Qig548iD.webp',
       date: '7 месяцев назад',
       view: '53970',
       time: '00:20:15',
@@ -344,7 +344,7 @@ export const mainInfo = {
     },
     {
       name: 'Между двумя папоротниками - Натали Портман',
-      source: 'src/image/videocomedy/101732ah0zw4wEyp.jpg',
+      source: 'src/image/videocomedy/101732ah0zw4wEyp.webp',
       date: '7 месяцев назад',
       view: '38626',
       time: '00:12:15',
@@ -353,7 +353,7 @@ export const mainInfo = {
     },
     {
       name: 'Между Двумя Папоротниками Уилл Фарелл',
-      source: 'src/image/videocomedy/100797W4Qig548iD.jpg',
+      source: 'src/image/videocomedy/100797W4Qig548iD.webp',
       date: '7 месяцев назад',
       view: '42096',
       time: '00:42:15',
@@ -362,7 +362,7 @@ export const mainInfo = {
     },
     {
       name: 'Между двумя папоротниками - Брюс Уиллис.',
-      source: 'src/image/videocomedy/101732ah0zw4wEyp.jpg',
+      source: 'src/image/videocomedy/101732ah0zw4wEyp.webp',
       date: '7 месяцев назад',
       view: '34498',
       time: '00:32:15',
@@ -371,7 +371,7 @@ export const mainInfo = {
     },
     {
       name: 'Зак Галифианакис и Хиллари Клинтон - Между Двумя Папоротниками ',
-      source: 'src/image/videocomedy/100793gCX3mMFlG4.jpg',
+      source: 'src/image/videocomedy/100793gCX3mMFlG4.webp',
       date: '7 месяцев назад',
       view: '56617',
       time: '00:22:15',
@@ -380,7 +380,7 @@ export const mainInfo = {
     },
     {
       name: 'Между двумя папоротниками - Стив Каррел',
-      source: 'src/image/videocomedy/101732ah0zw4wEyp.jpg',
+      source: 'src/image/videocomedy/101732ah0zw4wEyp.webp',
       date: '7 месяцев назад',
       view: '30523',
       time: '00:32:15',
@@ -391,7 +391,7 @@ export const mainInfo = {
   cook: [
     {
       name: 'Ussat aşpez(2-nji tapgyr 3-nji tapgyr)',
-      source: 'src/image/videocook/101943Bf3yFo6vNO.jpg',
+      source: 'src/image/videocook/101943Bf3yFo6vNO.webp',
       date: '2 дня назад',
       view: '1242',
       time: '00:12:00',
@@ -400,7 +400,7 @@ export const mainInfo = {
     },
     {
       name: 'Ussat aşpez (2-nji tapgyr 2-nji bölüm)',
-      source: 'src/image/video/101996ojVzOErU3F.jpg',
+      source: 'src/image/video/101996ojVzOErU3F.webp',
       date: '3 недели назад',
       view: '14242',
       time: '00:15:00',
@@ -409,7 +409,7 @@ export const mainInfo = {
     },
     {
       name: 'Ussat Aşpez (2-nji tapgyr 1-nji)',
-      source: 'src/image/videocook/101943Bf3yFo6vNO.jpg',
+      source: 'src/image/videocook/101943Bf3yFo6vNO.webp',
       date: '1 месяц назад',
       view: '11222',
       time: '00:11:00',
@@ -418,7 +418,7 @@ export const mainInfo = {
     },
     {
       name: 'Ussat aşpez(Täze ýyl sany)',
-      source: 'src/image/videocook/101935GY9Knc0ubs.jpg',
+      source: 'src/image/videocook/101935GY9Knc0ubs.webp',
       date: '1 месяц назад',
       view: '15169',
       time: '00:15:00',
@@ -427,7 +427,7 @@ export const mainInfo = {
     },
     {
       name: 'Я сделал пиццу как итальянский ПИЦЦА ШЕФ. Неаполитанская пицца в обычной духовке',
-      source: 'src/image/videocook/99681x5K3sXICzh.jpg',
+      source: 'src/image/videocook/99681x5K3sXICzh.webp',
       date: '1 год назад',
       view: '3433',
       time: '00:52:00',
@@ -436,7 +436,7 @@ export const mainInfo = {
     },
     {
       name: 'Pomidoro',
-      source: 'src/image/videocook/99206eF7ofEM1iJ.jpg',
+      source: 'src/image/videocook/99206eF7ofEM1iJ.webp',
       date: '1 год назад',
       view: '181431',
       time: '00:22:00',
@@ -445,7 +445,7 @@ export const mainInfo = {
     },
     {
       name: 'Doragly banan',
-      source: 'src/image/videocook/986033mKcSncBKE.jpg',
+      source: 'src/image/videocook/986033mKcSncBKE.webp',
       date: '1 год назад',
       view: '212018',
       time: '00:10:00',
@@ -454,7 +454,7 @@ export const mainInfo = {
     },
     {
       name: 'CHizburger',
-      source: 'src/image/videocook/9857729pe5XcnwR.jpg',
+      source: 'src/image/videocook/9857729pe5XcnwR.webp',
       date: '1 год назад',
       view: '191445',
       time: '00:12:00',
@@ -465,49 +465,49 @@ export const mainInfo = {
   health: [
     {
       name: 'Чем пахнет РАК- Запомните эти ТРИ запаха! Будьте бдительны! Начальные симптомы рака',
-      source: 'src/image/videohealth/91070rXlxEVK051.jpg',
+      source: 'src/image/videohealth/91070rXlxEVK051.webp',
       date: '2 года назад',
       view: '100099',
     },
     {
       name: 'Хватит работать - учимся отдыхать! -Как нужно правильно отдыхать',
-      source: 'src/image/videohealth/910699JwJBheZuE.jpg',
+      source: 'src/image/videohealth/910699JwJBheZuE.webp',
       date: '2 года назад',
       view: '43220',
     },
     {
       name: 'Секрет молодости! -Инструкция по омоложению -7 советов, как выглядеть моложе своих лет',
-      source: 'src/image/videohealth/91068JUZ2F6euSQ.jpg',
+      source: 'src/image/videohealth/91068JUZ2F6euSQ.webp',
       date: '7 месяцев назад',
       view: '58704',
     },
     {
       name: 'Сахар - это белая смерть!-Как отказаться от сладкого',
-      source: 'src/image/videohealth/91067Mjj2rgM8Tl.jpg',
+      source: 'src/image/videohealth/91067Mjj2rgM8Tl.webp',
       date: '2 года назад',
       view: '41730',
     },
     {
       name: 'Проблемы с памятью, что делать- Как правильно активировать свою память',
-      source: 'src/image/videohealth/91066s1LHgIRRev.jpg',
+      source: 'src/image/videohealth/91066s1LHgIRRev.webp',
       date: '2 года назад',
       view: '44361',
     },
     {
       name: 'Как улучшить зрение в домашних условиях- 5 эффективных практик для улучшения зрения',
-      source: 'src/image/videohealth/91065TjiEUOzuHZ.jpg',
+      source: 'src/image/videohealth/91065TjiEUOzuHZ.webp',
       date: '2 года назад',
       view: '50247',
     },
     {
       name: 'Как снять боль в спине- 3 практики для здорового позвоночника',
-      source: 'src/image/videohEALTH/91064m3OIar3NYl.jpg',
+      source: 'src/image/videohEALTH/91064m3OIar3NYl.webp',
       date: '2 года назад',
       view: '38065',
     },
     {
       name: 'Как очистить свой организм-',
-      source: 'src/image/videoHEALTH/91063CP6UPxKDjQ.jpg',
+      source: 'src/image/videoHEALTH/91063CP6UPxKDjQ.webp',
       date: '2 года назад',
       view: '38984',
     },
@@ -515,49 +515,49 @@ export const mainInfo = {
   interest: [
     {
       name: 'Durmuşy kyssalar',
-      source: 'src/image/videointerest/101730maMNP4FcRB.jpg',
+      source: 'src/image/videointerest/101730maMNP4FcRB.webp',
       date: '2 месяца назад',
       view: '3245',
     },
     {
       name: 'MAHIRLI OYMELER - OGULBIBI REYIMOWA (1 NJI BOLUM)',
-      source: 'src/image/videointerest/101513aR82O8zyad.jpg',
+      source: 'src/image/videointerest/101513aR82O8zyad.webp',
       date: '5 месяца назад',
       view: '3347',
     },
     {
       name: 'Добро пожаловать в захватывающий мир гастрономии с Горячим Шоу «Рецепты от Джемалы»!',
-      source: 'src/image/videointerest/101365QZ15Q9VhDg.jpg',
+      source: 'src/image/videointerest/101365QZ15Q9VhDg.webp',
       date: '5 месяца назад',
       view: '46665',
     },
     {
       name: 'Интервью с Джемал Байрамовой, которая имеет три вида бизнеса',
-      source: 'src/image/videointerest/101313Z2v0XMZIRM.jpg',
+      source: 'src/image/videointerest/101313Z2v0XMZIRM.webp',
       date: '3 месяца назад',
       view: '1310',
     },
     {
       name: 'Интервью с Керимовой Джамиля Бизнес леди, основательница коворкинг центра “Ish nokady”',
-      source: 'src/image/videointerest/101205s3pQAipcse.jpg',
+      source: 'src/image/videointerest/101205s3pQAipcse.webp',
       date: '2 месяца назад',
       view: '1767',
     },
     {
       name: 'Интервью с Ирадой-Мяхри Ахмедовой',
-      source: 'src/image/videointerest/101138cNMFFRVAyQ.jpg',
+      source: 'src/image/videointerest/101138cNMFFRVAyQ.webp',
       date: '6 месяца назад',
       view: '6247',
     },
     {
       name: '«Клубничный рай» от Лейли',
-      source: 'src/image/videointerest/101137znVVekbVWB.jpg',
+      source: 'src/image/videointerest/101137znVVekbVWB.webp',
       date: ' 2 месяцев назад',
       view: '4260',
     },
     {
       name: 'Интервью с Рамилей Рамазановой',
-      source: 'src/image/videointerest/101136t0JCBXSk6t.jpg',
+      source: 'src/image/videointerest/101136t0JCBXSk6t.webp',
       date: ' 3 месяцев назад  ',
       view: '9984',
     },
@@ -565,49 +565,49 @@ export const mainInfo = {
   karaoke: [
     {
       name: 'Yulduz Usmonova - Sanamgina',
-      source: 'src/image/videokaraoke/1020345S8WVtqghk.jpg',
+      source: 'src/image/videokaraoke/1020345S8WVtqghk.webp',
       date: '1 неделю назад',
       view: '2256',
     },
     {
       name: 'Tujhe Dekha To Ye Jaana Sanam',
-      source: 'src/image/videokaraoke/102030rDEVU4Xele.jpg',
+      source: 'src/image/videokaraoke/102030rDEVU4Xele.webp',
       date: '1 неделю назад',
       view: '1459',
     },
     {
       name: 'Seni Unutmaya Ömrüm Yeter Mi',
-      source: 'src/image/videokaraoke/102029u6hebwoM08.jpg',
+      source: 'src/image/videokaraoke/102029u6hebwoM08.webp',
       date: '1 неделю назад',
       view: '2314',
     },
     {
       name: 'Tere Liye - Veer Zara',
-      source: 'src/image/videokaraoke/102027gPYtiyPF16.jpg',
+      source: 'src/image/videokaraoke/102027gPYtiyPF16.webp',
       date: '1 неделю назад',
       view: '1132',
     },
     {
       name: 'Bruno Mars & ROSE - APT.',
-      source: 'src/image/videokaraoke/102026roOosqIM2G.jpg',
+      source: 'src/image/videokaraoke/102026roOosqIM2G.webp',
       date: '1 неделю назад',
       view: '1132',
     },
     {
       name: 'Tum Hi Ho Arijit Singh',
-      source: 'src/image/videokaraoke/102022CdyN4CKUMu.jpg',
+      source: 'src/image/videokaraoke/102022CdyN4CKUMu.webp',
       date: '2 недели назад',
       view: '1046',
     },
     {
       name: 'Tere Liye Hum Hain Jiye ',
-      source: 'src/image/videokaraoke/1020211PjHxjhrIe.jpg',
+      source: 'src/image/videokaraoke/1020211PjHxjhrIe.webp',
       date: '2 недели назад',
       view: '440',
     },
     {
       name: 'Jahan bagşy - Azara galma',
-      source: 'src/image/videokaraoke/102020lb5E9MPbZw.jpg',
+      source: 'src/image/videokaraoke/102020lb5E9MPbZw.webp',
       date: '2 недели назад',
       view: '2714',
     },
@@ -615,49 +615,49 @@ export const mainInfo = {
   news: [
     {
       name: 'Watan Habarlary 12.02.2025',
-      source: 'src/image/videonews/v.jpg',
+      source: 'src/image/videonews/v.webp',
       date: ' 9 часов назад',
       view: '572',
     },
     {
       name: 'Watan Habarlary 11.02.2025',
-      source: 'src/image/videonews/v.jpg',
+      source: 'src/image/videonews/v.webp',
       date: '1 день назад',
       view: '4347',
     },
     {
       name: 'Watan Habarlary 10.02.2025',
-      source: 'src/image/videonews/v.jpg',
+      source: 'src/image/videonews/v.webp',
       date: '2 дня назад',
       view: '8665',
     },
     {
       name: 'Watan Habarlary 09.02.2025',
-      source: 'src/image/videonews/v.jpg',
+      source: 'src/image/videonews/v.webp',
       date: '3 дня назад',
       view: '5210',
     },
     {
       name: 'Watan Habarlary 08.02.2025',
-      source: 'src/image/videonews/v.jpg',
+      source: 'src/image/videonews/v.webp',
       date: '4 дня назад',
       view: '1767',
     },
     {
       name: 'Watan Habarlary 07.02.2025',
-      source: 'src/image/videonews/v.jpg',
+      source: 'src/image/videonews/v.webp',
       date: '5 дней назад',
       view: '4247',
     },
     {
       name: 'Watan Habarlary 06.02.2025',
-      source: 'src/image/videonews/v.jpg',
+      source: 'src/image/videonews/v.webp',
       date: '6 дней назад ',
       view: '1260',
     },
     {
       name: 'Watan Habarlary 05.02.2025',
-      source: 'src/image/videonews/v.jpg',
+      source: 'src/image/videonews/v.webp',
       date: '1 неделю назад',
       view: '5984',
     },
@@ -665,49 +665,49 @@ export const mainInfo = {
   technology: [
     {
       name: 'Первый обзор Xiaomi 15 Pro (и просто 15) — такого не ожидал...',
-      source: 'src/image/videoscience/101561lUTOS9TcWX.jpg',
+      source: 'src/image/videoscience/101561lUTOS9TcWX.webp',
       date: '3 месяца назад',
       view: '3686',
     },
     {
       name: 'Xiaomi 15 и HyperOS 2 — ну что, опять топ',
-      source: 'src/image/videoscience/1015108oLgmdpWxh.jpg',
+      source: 'src/image/videoscience/1015108oLgmdpWxh.webp',
       date: '3 месяца назад',
       view: '2147',
     },
     {
       name: 'Türkmenistanda «E-mekdep» ulgamy işläp başlady',
-      source: 'src/image/videoscience/101451MGGpmIw12g.jpg',
+      source: 'src/image/videoscience/101451MGGpmIw12g.webp',
       date: '3 месяца назад',
       view: '504',
     },
     {
       name: '«E-mekdep» mümkinçilikleri',
-      source: 'src/image/videoscience/100705cSKWN25n7Y.jpg',
+      source: 'src/image/videoscience/100705cSKWN25n7Y.webp',
       date: '3 месяца назад',
       view: '4130',
     },
     {
       name: '«E-mekdep» elektron dolandyryş ulgamy',
-      source: 'src/image/videoscience/101448AFq6J0ArKp.jpg',
+      source: 'src/image/videoscience/101448AFq6J0ArKp.webp',
       date: '3 месяца назад',
       view: '3261',
     },
     {
       name: '«E-mekdep»',
-      source: 'src/image/videoscience/101447PeCbNBI26I.jpg',
+      source: 'src/image/videoscience/101447PeCbNBI26I.webp',
       date: '3 месяца назад',
       view: '8247',
     },
     {
       name: 'iOS 18 — крупнейшее обновление со времён iOS 7 (и калькулятор для iPad ещё)',
-      source: 'src/image/videoscience/100712QspFxQZbeD.jpg',
+      source: 'src/image/videoscience/100712QspFxQZbeD.webp',
       date: '2 года назад',
       view: '38065',
     },
     {
       name: 'BlackBerry 15 Pro — iPhone с',
-      source: 'src/image/videoscience/100705cSKWN25n7Y.jpg',
+      source: 'src/image/videoscience/100705cSKWN25n7Y.webp',
       date: '2 года назад',
       view: '38984',
     },
@@ -715,49 +715,49 @@ export const mainInfo = {
   sport: [
     {
       name: 'ИСПАНИЯ - ПУТЬ К ТИТУЛУ ЕВРО 2024',
-      source: 'src/image/videosport/1016730JKknXvHbT.jpg',
+      source: 'src/image/videosport/1016730JKknXvHbT.webp',
       date: '2 месяца назад',
       view: '12686',
     },
     {
       name: 'Muhammad Ali vs George Foreman',
-      source: 'src/image/videosport/101653ZQb84kMHk4.jpg',
+      source: 'src/image/videosport/101653ZQb84kMHk4.webp',
       date: '2 месяца назад',
       view: '17347',
     },
     {
       name: 'Хабиб Нурмагомедов vs Конор МакГрегор',
-      source: 'src/image/videosport/101645ARPwhiRvDq.jpg',
+      source: 'src/image/videosport/101645ARPwhiRvDq.webp',
       date: '2 месяца назад',
       view: '46665',
     },
     {
       name: 'Бой Майк Тайсон — Джейк Пол',
-      source: 'src/image/videosport/101624S7nvnTIzSt.jpg',
+      source: 'src/image/videosport/101624S7nvnTIzSt.webp',
       date: '3 месяца назад',
       view: '5210',
     },
     {
       name: 'MESSIAH - A Lionel Messi Movie',
-      source: 'src/image/videosport/101440Ofsqn2UV4Y.jpg',
+      source: 'src/image/videosport/101440Ofsqn2UV4Y.webp',
       date: '3 месяца назад',
       view: '11767',
     },
     {
       name: 'Lionel Messi - WORLD CHAMPION - Movie',
-      source: 'src/image/videosport/101439tEG4aWC1uo.jpg',
+      source: 'src/image/videosport/101439tEG4aWC1uo.webp',
       date: '3 месяца назад',
       view: '8247',
     },
     {
       name: 'F1 Race Highlights - 2024 Canadian Grand Prix',
-      source: 'src/image/videosport/100781nS1ScDCpg0.jpg',
+      source: 'src/image/videosport/100781nS1ScDCpg0.webp',
       date: ' 7 месяцев назад',
       view: '17260',
     },
     {
       name: '50 Messi Skills that Stopped the',
-      source: 'src/image/videosport/100780ezhuKGCPaJ.jpg',
+      source: 'src/image/videosport/100780ezhuKGCPaJ.webp',
       date: ' 7 месяцев назад  ',
       view: '10984',
     },
@@ -1126,7 +1126,7 @@ export const alpRu = [
 ]
 export const fanBook = [
   {
-    source: '/src/image/library/evlenmeden_once.jpg',
+    source: '/src/image/library/evlenmeden_once.webp',
     name: 'Evlenmeden önce',
     author: 'Doğan Cüceloğlu',
     category: 'Psihologiýa-pedagogika',
@@ -1134,7 +1134,7 @@ export const fanBook = [
     view: '16681',
   },
   {
-    source: '/src/image/library/olenden_kim_aglar.jpg',
+    source: '/src/image/library/olenden_kim_aglar.webp',
     name: 'Öleňde kim aglar',
     author: 'Robin Şarma',
     category: 'Psihologiýa-pedagogika',
@@ -1142,7 +1142,7 @@ export const fanBook = [
     view: '16660',
   },
   {
-    source: '/src/image/library/aldanan_mojek.jpg',
+    source: '/src/image/library/aldanan_mojek.webp',
     name: 'Aldanan möjek',
     author: '',
     category: 'Çagalar üçin',
@@ -1150,7 +1150,7 @@ export const fanBook = [
     view: '14115',
   },
   {
-    source: '/src/image/library/turkmeniya.jpg',
+    source: '/src/image/library/turkmeniya.webp',
     name: '    Туркмения и туркмены / Туркмения и туркмены',
     author: 'Куропаткин А. Н.',
     category: 'Taryh',
@@ -1158,7 +1158,7 @@ export const fanBook = [
     view: '12071',
   },
   {
-    source: '/src/image/library/turkmen_dili.jpg',
+    source: '/src/image/library/turkmen_dili.webp',
     name: 'Туркменский язык',
     author: 'Э.А. Грунина',
     category: 'Türkmen dili',
@@ -1166,7 +1166,7 @@ export const fanBook = [
     view: '16149',
   },
   {
-    source: '/src/image/library/oylan_hem_baya.jpg',
+    source: '/src/image/library/oylan_hem_baya.webp',
     name: 'Oýlan hem baýa',
     author: 'Napoleon HILL',
     category: 'Işewürlik',
@@ -1451,7 +1451,7 @@ export const series = [
 export const mainMovie1 = [
   {
     name: 'Daragt',
-    source: '/src/image/movie/daragt_main.jpg',
+    source: '/src/image/movie/daragt_main.webp',
     time: '01:20:36',
     genre: 'драмы',
     date: '2 года назад',
@@ -1460,7 +1460,7 @@ export const mainMovie1 = [
   },
   {
     name: 'Araçynyň Ady | Türkmen Filmi(2025)',
-    source: '/src/image/movie/images (2).jpg',
+    source: '/src/image/movie/images (2).webp',
     time: '01:12:30',
     genre: 'драмы',
     date: '2 месяцев назад',
@@ -1469,7 +1469,7 @@ export const mainMovie1 = [
   },
   {
     name: 'Diri Galan - Выживший',
-    source: '/src/image/movie/the_revenant_main.jpg',
+    source: '/src/image/movie/the_revenant_main.webp',
     time: '02:37:35',
     genre: 'драмы',
     date: '1 год назад',
@@ -1478,7 +1478,7 @@ export const mainMovie1 = [
   },
   {
     name: 'Дэдпул и Росомаха (2024)',
-    source: '/src/image/movie/wolverina_deadpool_main.jpg',
+    source: '/src/image/movie/wolverina_deadpool_main.webp',
     time: '02:07:38',
     genre: 'боевик',
     date: '7 месяцев назад',
@@ -1489,7 +1489,7 @@ export const mainMovie1 = [
 export const mainMovie2 = [
   {
     name: 'Hemmezat gowlyga | Turkmen Filmi (2024)',
-    source: '/src/image/movie/gowlyga.jpg',
+    source: '/src/image/movie/gowlyga.webp',
     time: '01:14:38',
     genre: 'драмы',
     date: '6 месяцев назад',
@@ -1498,7 +1498,7 @@ export const mainMovie2 = [
   },
   {
     name: 'Forsazh - Örän güýçli tizlikde : Hobs we Şou',
-    source: '/src/image/movie/hobs_shaw_main.jpg',
+    source: '/src/image/movie/hobs_shaw_main.webp',
     time: '02:17:25',
     genre: 'боевик',
     date: '1 год  назад',
@@ -1516,7 +1516,7 @@ export const mainMovie2 = [
   },
   {
     name: '7/24',
-    source: '/src/image/movie/taxi_banner.jpg',
+    source: '/src/image/movie/taxi_banner.webp',
     date: '2 года назад',
     rating: 5,
     view: 74540,
@@ -1525,34 +1525,34 @@ export const mainMovie2 = [
 export const mainMovieTable = [
   {
     name: 'Daragt',
-    source: '/src/image/movie/daragt.jpg',
+    source: '/src/image/movie/daragt.webp',
   },
   {
     name: 'Araçynyň Ady',
-    source: '/src/image/movie/aracynyn_ady.jpg',
+    source: '/src/image/movie/aracynyn_ady.webp',
   },
   {
     name: 'Diri Galan',
-    source: '/src/image/movie/the_revenant.jpg',
+    source: '/src/image/movie/the_revenant.webp',
   },
   {
     name: 'Дедпул и Росомаха',
-    source: '/src/image/movie/wolverina_deadpool.jpg',
+    source: '/src/image/movie/wolverina_deadpool.webp',
   },
   {
     name: 'Hemmezat gowlyga',
-    source: '/src/image/movie/gowlyga.jpg',
+    source: '/src/image/movie/gowlyga.webp',
   },
   {
     name: 'Forsazh - Örän güýçli tizlikde : Hobs we Şou',
-    source: '/src/image/movie/hobs_shaw.jpg',
+    source: '/src/image/movie/hobs_shaw.webp',
   },
   {
     name: 'Граф Монте Гриста',
-    source: '/src/image/movie/graf_monte_krista.jpg',
+    source: '/src/image/movie/graf_monte_krista.webp',
   },
   {
     name: 'Taksi hyzmaty',
-    source: '/src/image/movie/taksi_hyzmaty.jpg',
+    source: '/src/image/movie/taksi_hyzmaty.webp',
   },
 ]

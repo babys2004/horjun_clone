@@ -3,7 +3,7 @@
     <div>
       <div class="flex items-center px-10 justify-between">
         <div class="w-44">
-          <img src="/src/image/logo/homemyfooter.png" class="cursor-pointer h-9 min-w-40" />
+          <img src="/src/image/logo/homemyfooter.webp" class="cursor-pointer h-9 min-w-40" />
         </div>
         <div class="ml-8 h-20 items-center w-[600px] text-gray-400 flex justify-around">
           <div class="flex items-center cursor-pointer hover:text-sky-500">

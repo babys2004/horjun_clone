@@ -30,7 +30,7 @@ onUnmounted(() => {
     class="z-30 fixed flex font-normal justify-between items-center w-full bg-white top-0 h-20 shadow-md pt-5 shadow-slate-800"
   >
     <div class="ml-3 flex items-center w-2/3">
-      <img src="/src/image/logo/homemy.png" class="h-9 mr-20" />
+      <img src="/src/image/logo/homemy.webp" class="h-9 mr-20" />
       <div class="relative items-center flex w-280 justify-between max-xl:hidden">
         <div v-for="(item, key) in menuHeader" :key="key">
           <div
