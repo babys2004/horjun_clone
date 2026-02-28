@@ -1,0 +1,77 @@
+@import 'tailwindcss';
+.sign-in-enter-active {
+  @apply transition-opacity ease-linear duration-200;
+}
+.sign-in-leave-active {
+  @apply transition-opacity ease-linear duration-500 delay-300;
+}
+
+.sign-in-enter-from,
+.sign-in-leave-to {
+  @apply opacity-0;
+}
+
+.sign-in-enter-active .inner,
+.sign-in-leave-active .inner {
+  @apply transition-all duration-500;
+}
+
+.sign-in-enter-from .inner,
+.sign-in-leave-to .inner {
+  @apply opacity-0 -translate-y-5;
+}
+
+.sign-in-enter-active .inner {
+  @apply delay-200;
+}
+.sign-in-enter-active .sign,
+.sign-in-leave-active .sign {
+  @apply transition-opacity duration-500;
+}
+
+.sign-in-enter-from .sign,
+.sign-in-leave-to .sign {
+  @apply opacity-0;
+}
+
+.login-btn-enter-active {
+  @apply transition-transform ease-linear duration-200;
+}
+.login-btn-leave-active {
+  @apply transition-opacity ease-linear duration-200;
+}
+
+.login-btn-enter-from {
+  @apply translate-y-2;
+}
+.login-btn-leave-to {
+  @apply opacity-0;
+}
+
+.sign-enter-active {
+  @apply transition-opacity duration-200 delay-500;
+}
+.sign-leave-active {
+  @apply transition-opacity duration-100 delay-100;
+}
+.sign-enter-from,
+.sign-leave-to {
+  @apply opacity-0;
+}
+
+.sign-button-enter-active {
+  @apply transition-opacity duration-300;
+}
+.sign-button-leave-active {
+  @apply transition-opacity duration-300;
+}
+.sign-button-enter-from,
+.sign-button-leave-to {
+  @apply opacity-0;
+}
+.example {
+  @apply w-40 h-60 border border-red-400 ml-30 mt-30 text-center pt-5;
+}
+.example-btn {
+  @apply bg-sky-400 text-white px-5 py-1 rounded-xl;
+}
